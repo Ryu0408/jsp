@@ -11,6 +11,7 @@
 		<%!
 			Connection con = null;
 			DataSource ds = null;
+			
 		%>
 		<%
 			try{
